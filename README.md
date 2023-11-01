@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hackrld-1
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently Pursuying BCA
+- 🌱 I’m currently Student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
